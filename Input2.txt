@@ -1,0 +1,4 @@
+R,DR,DL,L
+DR,R,O,DL
+DR,UR,UR,U
+R,UR,U,G
